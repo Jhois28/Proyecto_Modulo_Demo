@@ -4,9 +4,9 @@
 
 abrir index.html
 
-## Infromación del autor
+## Información del autor
 
-@jhois28
+@Jhois28
 
 ## Licencia 
 
